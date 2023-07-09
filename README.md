@@ -1,9 +1,13 @@
-This project was inspired by Tiff in Tech's video on building a Python Youtube Downloader
+#YouTube Video Downloader
 
-What the project currently does:
-* Scans a text file and downloads the youtube videos in the file
-* Outputs the resulting videos to a Videos folder
+Credits:
+* Vishal Kamalakrishnan (https://github.com/TheV123)
+* Tiff in Tech's downloader tutorial (https://www.youtube.com/@TiffInTech/videos)
 
-Future Goals
+Current capability:
+* Scans a text file and downloads YouTube videos in that file
+* Outputs the resulting videos to a videos folder
+
+Goals
 * GUI
-* Choose Resolution of video and file format (including audio) 
+* Ability to select video/audio resolution and file format 
